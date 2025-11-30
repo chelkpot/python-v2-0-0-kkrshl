@@ -2,8 +2,12 @@
 
 def solve():
 # Ниже пишите решение задачи
-    x, y, z = map(int, input().split())
-print(3 * x + 5 * y + 12 * z)
+   x, y, z - map(int, Input().split())
+price_pencil = 3
+price_pen = price_pencil + 2 
+price_marker = price_pen
+total_cost = (x * price_pencil) + (y * price_pen) + (z * price_marker)
+print (total_cost)
 
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":

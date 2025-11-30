@@ -2,11 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-    S=int(input())
-    petyaserg= S // 6
-    katya= 4 * petyaserg
-    print(petyaserg, katya, petyaserg)
-
+    5 = int(input())
+x = 5 // 6
+katya = 4 * x
+print(x, katya, x)
     
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":

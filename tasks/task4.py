@@ -2,11 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-    a=input()
-    b=input()
-    c=input()
-    print(a+"---"+b+"---"+c)
-
+    pharase1 = input()
+phrase2 = input()
+phrase3 = input()
+print (phrasel, phrase2, phrase3, sep="---")
     
 
 # Код ниже не трогать! он нужен для тестов
